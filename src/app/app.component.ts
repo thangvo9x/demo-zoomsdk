@@ -18,7 +18,7 @@ ZoomMtg.i18n.reload('en-US');
 export class AppComponent implements OnInit {
 
   // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
-  signatureEndpoint = ''
+  signatureEndpoint = 'https://signature-zoom-generate.herokuapp.com'
   apiKey = ''
   meetingNumber = '123456789'
   role = 0
