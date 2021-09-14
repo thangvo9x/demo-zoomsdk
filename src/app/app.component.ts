@@ -19,10 +19,10 @@ export class AppComponent implements OnInit {
 
   // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
   signatureEndpoint = 'https://signature-zoom-generate.herokuapp.com'
-  apiKey = ''
+  apiKey = 'xyy3ZHYUQSG571vHbs67Qg'
   meetingNumber = '123456789'
   role = 0
-  leaveUrl = 'http://localhost:4200'
+  leaveUrl = 'https://thangvo9x.github.io/demo-zoomsdk/'
   userName = 'Angular'
   userEmail = ''
   passWord = ''
