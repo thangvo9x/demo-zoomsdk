@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
   apiKey = 'xyy3ZHYUQSG571vHbs67Qg'
   meetingNumber = '123456789'
   role = 0
-  leaveUrl = 'https://thangvo9x.github.io/demo-zoomsdk/'
+  leaveUrl = 'https://thangvo9x.github.io/demo-zoomsdk'
   userName = 'Angular'
   userEmail = ''
   passWord = ''
