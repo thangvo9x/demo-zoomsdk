@@ -47,7 +47,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "baseHref": "/demo-zoomsdk/",
+              "baseHref": "https://thangvo9x.github.io/demo-zoomsdk/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
